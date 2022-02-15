@@ -3,3 +3,7 @@
 set -xEeuo pipefail
 
 echo "DESTRUCTION IN PROGESS........"
+
+ls
+
+ls ../
