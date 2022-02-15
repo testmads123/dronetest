@@ -5,3 +5,5 @@ set -xEeuo pipefail
 echo "DESTRUCTION IN PROGESS........"
 
 docker ps
+
+printenv
